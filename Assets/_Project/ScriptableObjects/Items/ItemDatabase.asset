@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12e41b5063d7cee4db0cffcf946ec663, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::SwordArt.Inventory.ItemDatabase
+  items:
+  - {fileID: 11400000, guid: e3fc28e8a8dc0b549882dddc6e1e9fbd, type: 2}
+  - {fileID: 11400000, guid: 133f63ad22da63b4e856b6a8df713266, type: 2}
+  - {fileID: 11400000, guid: 076b742162a0bcf479c0e0146f9b511d, type: 2}
+  - {fileID: 11400000, guid: ab342625fba7aa641a893cf19ad9fed2, type: 2}
+  - {fileID: 11400000, guid: 5f9a5522907ec504c901beb7a3b0c77e, type: 2}
+  - {fileID: 11400000, guid: a29e4a8b81255544fa0f63f7f63d321f, type: 2}
+  shopItems:
+  - {fileID: 11400000, guid: 1ddea10c54c35164096d0d3203d5b07e, type: 2}
+  - {fileID: 11400000, guid: eca7131621fcb764db7629970c0767ab, type: 2}
+  - {fileID: 11400000, guid: 68d468313417cdc429c700bf5e82f468, type: 2}
+  - {fileID: 11400000, guid: 53862ed8803e0b847a784982ec828c95, type: 2}
+  - {fileID: 11400000, guid: dd65d6b5e571d004fb19e84fb54310ab, type: 2}

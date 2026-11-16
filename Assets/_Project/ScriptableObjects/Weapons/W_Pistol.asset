@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1024594d8de326641bddd5cc59913c54, type: 3}
+  m_Name: W_Pistol
+  m_EditorClassIdentifier: Assembly-CSharp::SwordArt.Weapons.WeaponData
+  id: weapon_pistol
+  displayName: "\u041F\u0438\u0441\u0442\u043E\u043B\u0435\u0442 \xABViper-9\xBB"
+  description: "\u041D\u0430\u0434\u0451\u0436\u043D\u044B\u0439 \u0441\u0442\u0430\u0440\u0442\u043E\u0432\u044B\u0439
+    \u043F\u0438\u0441\u0442\u043E\u043B\u0435\u0442. \u041F\u043E\u043B\u0443\u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439
+    \u043E\u0433\u043E\u043D\u044C, \u0431\u044B\u0441\u0442\u0440\u0430\u044F \u043F\u0435\u0440\u0435\u0437\u0430\u0440\u044F\u0434\u043A\u0430."
+  icon: {fileID: 0}
+  accentColor: {r: 0.95, g: 0.6, b: 0.3, a: 1}
+  itemType: 0
+  maxStack: 1
+  weaponType: 0
+  damage: 22
+  fireRate: 5
+  range: 70
+  spread: 1.6
+  aimSpread: 0.35
+  automatic: 0
+  magazineSize: 15
+  reserveMagazines: 4
+  reloadTime: 1.3
+  headshotMultiplier: 2
+  recoil: 1.6
+  recoilHorizontal: 0.4
+  aimFov: 58
+  hasScope: 0
+  mobility: 1.05
+  modelPrefab: {fileID: 919132149155446097, guid: ec38bc56e0929714294c70d1336fd54b, type: 3}
+  viewOffset: {x: 0.16, y: -0.15, z: 0.42}
+  aimOffset: {x: 0, y: -0.062, z: 0.3}
+  muzzleLocalPosition: {x: 0, y: 0.035, z: 0.17}
+  tracerColor: {r: 1, g: 0.8, b: 0.45, a: 1}
+  soundPitch: 1.15

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc01c5c353eda24288f5bb6e47c24d4, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: Assembly-CSharp::SwordArt.Core.GameConfig
+  itemDatabase: {fileID: 11400000, guid: eacdcefeeccc9b44eb86cc7a4f823f46, type: 2}
+  economy: {fileID: 11400000, guid: 647611e6cb8f06948a3c45134f80e64e, type: 2}
+  particleAdditive: {fileID: 2100000, guid: 27c89c2caf5b2ee41a48de725abfe083, type: 2}
+  particleAlpha: {fileID: 2100000, guid: 1cf57ee6a569bdf409548635947601f9, type: 2}
+  tracerMaterial: {fileID: 2100000, guid: 51dc78ea42b458e4fb62ce3b6de17b66, type: 2}
+  shardMaterial: {fileID: 2100000, guid: 264f1fe92c0a64742a7f4e409a332118, type: 2}

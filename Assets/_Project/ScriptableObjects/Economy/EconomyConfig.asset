@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1540a77468b1677449345606c1827cf9, type: 3}
+  m_Name: EconomyConfig
+  m_EditorClassIdentifier: Assembly-CSharp::SwordArt.Economy.EconomyConfig
+  startingCredits: 250
+  starterItems:
+  - {fileID: 11400000, guid: e3fc28e8a8dc0b549882dddc6e1e9fbd, type: 2}
+  jobRewardPerTask: 15
+  jobCompletionBonus: 30
+  jobPerfectBonus: 20
+  jobTasksPerShift: 6
+  jobShiftDuration: 35
+  participationReward: 50
+  rewardPerKill: 35
+  winReward: 500
+  podiumReward: 100

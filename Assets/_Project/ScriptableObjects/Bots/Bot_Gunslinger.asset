@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa324af7e75a360429508be36ac7a6e7, type: 3}
+  m_Name: Bot_Gunslinger
+  m_EditorClassIdentifier: Assembly-CSharp::SwordArt.AI.BotProfile
+  archetype: "\u0414\u0443\u044D\u043B\u044F\u043D\u0442"
+  weapon: {fileID: 11400000, guid: e3fc28e8a8dc0b549882dddc6e1e9fbd, type: 2}
+  maxHealth: 100
+  sightRange: 55
+  fieldOfView: 130
+  hearingRange: 45
+  reactionTime: 0.55
+  spreadMultiplier: 2.6
+  damageMultiplier: 0.45
+  aimTime: 0.6
+  burstSize: {x: 2, y: 4}
+  burstPause: {x: 0.4, y: 0.8}
+  preferredMinDistance: 7
+  preferredMaxDistance: 20
+  coverHealthThreshold: 0.4
+  walkSpeed: 3.5
+  runSpeed: 6
+  outfitColor: {r: 0.25, g: 0.3, b: 0.4, a: 1}
+  accentColor: {r: 0.9, g: 0.3, b: 1, a: 1}
